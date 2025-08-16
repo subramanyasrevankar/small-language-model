@@ -1,4 +1,4 @@
-Small Language Model (Toy Transformer)
+ 🧠 Small Language Model (Toy Transformer)
 📖 Description
 
 This is a small language model that I built by following tutorials. The main purpose is to understand how transformers like GPT actually work from the inside.
