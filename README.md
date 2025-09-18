@@ -1,7 +1,7 @@
  🧠 Small Language Model (Toy Transformer)
 📖 Description
 
-This is a small language model that I built by following tutorials. The main purpose is to understand how transformers like GPT actually work from the inside.
+This is a small language model that I built by watching tutorials. The main purpose is to understand how transformers like GPT actually work from the inside.
 
 I learned about embeddings, attention, transformer blocks, and even gradient accumulation. This project is not about making a huge model, but more about understanding the concepts step by step.
 
